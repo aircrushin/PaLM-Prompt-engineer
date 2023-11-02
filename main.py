@@ -58,4 +58,4 @@ if chat_history:
         sleep(0.5)
         with st.chat_message(name='model'):
             st.write(response.result)
-            copy_text(response.result)
+            # copy_text(response.result)
