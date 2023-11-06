@@ -1,5 +1,5 @@
 # Prompt-engineer
-prommpt to pormpt application based on Google Palm 2
+prompt to prompt assistant based on Google Palm 2
 
 ### installation
 ```
