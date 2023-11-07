@@ -1,4 +1,4 @@
-# Prompt-engineer
+# palm-prompt-engineer
 prompt to prompt assistant based on Google Palm 2
 
 ### installation
